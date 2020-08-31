@@ -1,6 +1,6 @@
 package com.erick.crudRedis.service;
 
-public interface UsuarioService {
+public interface IUsuarioService {
 
     public String cadastrarUsuario();
 }
